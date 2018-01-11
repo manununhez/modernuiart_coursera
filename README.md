@@ -1,4 +1,4 @@
-# modernuiart_coursera
+# ModernUIArt - Coursera
 Programming Mobile Applications for Android Handheld Systems - Course Week 5
 
 ## See the demo in youtube
